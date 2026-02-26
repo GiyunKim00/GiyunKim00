@@ -7,7 +7,7 @@
 <p align="center">
   <!-- email -->
   <a href="mailto:gykim_kr@naver.com">
-    <img src="https://img.shields.io/badge/YOUR_EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <!-- blog -->
   <a href="https://velog.io/@gykim22/posts">
