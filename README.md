@@ -1,6 +1,6 @@
 <!-- header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Giyun_Kim's+Github!&fontSize=40"/>
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D7E7FF&fontColor=0F1035&height=200&section=header&text=GiyunKim&fontSize=60"/>
 </p>
 
 <!-- contact badges -->
