@@ -14,7 +14,8 @@
 </p>
 
 ## 소개 | About Me
-### **김기윤 Giyun Kim | Android Application Developer**
+### **김기윤 | Giyun Kim**
+### **Android 개발자 | Android Application Developer**
 - **Kotlin과 Jetpack Compose**를 중심으로 개발하는 **Android 개발자**입니다.  
 - Kotlin Multiplatform Mobile(KMM), Flutter를 활용한 **Cross-Platform 개발** 경험이 있습니다.  
 - 확장 가능한 아키텍처와 클린 코드, 실제 문제 해결 중심의 개발을 지향합니다.
@@ -24,15 +25,16 @@
 
 | 회사 | 재직 기간 | 직책 | 주요 업무 |
 |:-------------:|--------------|:------:|:------:|
-| **우아한테크코스** | 2026.02 – 2026.12 | 8기 Android | - |
-| **디라이브 주식회사** | 2025.03 – 2025.09 | 애플리케이션 개발자 | 교통약자 이동지원 플랫폼 *이음* 개발<br>- 승객용 앱 개발 책임<br>- 기사용 앱 개발<br><br>검증 기반 리뷰 서비스 *reALview* 개발<br>- Flutter 및 Android 기반 설계 및 구현 |
-| **강남앤인코누스 주식회사** | 2024.12 – 2025.02 | Android 개발 인턴 | 건설 특화 HR 애플리케이션 *KeepMe HR* 개발 참여 (Android) |
+| **우아한테크코스**<br>Woowacourse | 2026.02 – 2026.12 | 8기 Android | - |
+| **디라이브 주식회사**<br>D`rive Inc. | 2025.03 – 2025.09 | 애플리케이션 개발자 | 교통약자 이동지원 플랫폼 *이음* 개발<br>- 승객용 앱 개발 책임<br>- 기사용 앱 개발<br><br>검증 기반 리뷰 서비스 *reALview* 개발<br>- Flutter 및 Android 기반 설계 및 구현 |
+| **강남앤인코누스 주식회사**<br>Inconus Inc. | 2024.12 – 2025.02 | Android 개발 인턴 | 건설 특화 HR 애플리케이션 *KeepMe HR* 개발 참여 (Android) |
 <br>
 
 ## 학력 | Education
 
 ### 부산대학교 | Pusan National University
-- **공학사 | 정보컴퓨터공학부 School Of Computer Science**  
+- **정보컴퓨터공학부 | School Of Computer Science and Engineering**  
+- **공학사 | Bachelor of Engineering**
 - **2026년 2월 졸업 | 최우등졸업**  
 - **GPA: 4.2 / 4.5**
 <br>
@@ -73,7 +75,6 @@
 ### Dependency Injection
 <p>
   <img src="https://img.shields.io/badge/Dagger%20Hilt-59666C?style=flat-square&logo=dagger&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Glide-009688?style=flat-square"/>
 </p>
 
 ### Build Tool
@@ -120,7 +121,7 @@
 | 25.11.02 | SK AI SUMMIT 2025 | 부산대학교 대표 | 팀 | Pilltip | **SK 그룹**<br>SK Telecom 주식회사 |
 | 25.11.03 | PNU SW/AI 에세이 공모전 | 우수상, 1위 | 개인 | - |**부산대학교**<br>소프트웨어융합교육원장 |
 
-## 프로젝트
+## 프로젝트 | Projects
 
 ### [Pilltip](https://github.com/PillTipKR/PillTip) (2025.02 – 2025.12)
 **당신만의 개인맞춤 AI 안심복약 솔루션**
