@@ -15,9 +15,7 @@
 
 ## 소개 | About Me
 ### **김기윤 | Giyun Kim**
-### **Android 개발자 | Android Application Developer**
-- **Kotlin과 Jetpack Compose**를 중심으로 개발하는 **Android 개발자**입니다.  
-- Kotlin Multiplatform Mobile(KMM), Flutter를 활용한 **Cross-Platform 개발** 경험이 있습니다.  
+### **IT 엔지니어 | IT Engineer**
 - 확장 가능한 아키텍처와 클린 코드, 실제 문제 해결 중심의 개발을 지향합니다.
 <br>
 
@@ -25,6 +23,7 @@
 
 | 회사 | 재직 기간 | 직책 | 주요 업무 |
 |:-------------:|--------------|:------:|:------:|
+| **SK 하이닉스**<br>SK Hynix | 2026.07 – 현재 | IT Engineer | IT 인프라 개발 및 유지보수 |
 | **우아한테크코스**<br>Woowacourse | 2026.02 – 2026.12 | 8기 Android | - |
 | **디라이브 주식회사**<br>D`rive Inc. | 2025.03 – 2025.09 | 애플리케이션 개발자 | 교통약자 이동지원 플랫폼 *이음* 개발<br>- 승객용 앱 개발 책임<br>- 기사용 앱 개발<br><br>검증 기반 리뷰 서비스 *reALview* 개발<br>- Flutter 및 Android 기반 설계 및 구현 |
 | **강남앤인코누스 주식회사**<br>Inconus Inc. | 2024.12 – 2025.02 | Android 개발 인턴 | 건설 특화 HR 애플리케이션 *KeepMe HR* 개발 참여 (Android) |
