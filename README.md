@@ -15,8 +15,8 @@
 
 ## 소개 | About Me
 ### **김기윤 | Giyun Kim**
-### **IT 엔지니어 | IT Engineer**
-- 확장 가능한 아키텍처와 클린 코드, 실제 문제 해결 중심의 개발을 지향합니다.
+### **SK 하이닉스 IT 엔지니어 | IT Engineer at SK Hynix**
+- 확장 가능한 아키텍처와 클린 코드, 실제 문제 해결 중심의 개발을 지향하는 SK Hynix IT 엔지니어 김기윤입니다.
 <br>
 
 ## 경력 | Professional Experience
